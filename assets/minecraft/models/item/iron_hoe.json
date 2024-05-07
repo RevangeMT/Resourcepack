@@ -1,0 +1,98 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/weapons/guns/desert_eagle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/weapons/guns/huntingrifle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/weapons/guns/double_barreled_shotgun"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/weapons/guns/taser"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/weapons/guns/glock"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/weapons/guns/mk7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/weapons/guns/mp7-a1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/weapons/guns/mcx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "custom/weapons/guns/m58b"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "custom/weapons/guns/m47d1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "custom/weapons/guns/g36c"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "custom/weapons/guns/mk18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "custom/weapons/guns/m1911"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "custom/weapons/guns/mk2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "custom/weapons/guns/g45"
+    }
+  ]
+}

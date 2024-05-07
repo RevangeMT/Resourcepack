@@ -1,0 +1,78 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/weapons/melee/machete",
+		"particle": "custom/weapons/melee/machete"
+	},
+	"elements": [
+		{
+			"from": [1.85662, 0.8, 7.4975],
+			"to": [5.85662, 2.8, 8.5025],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [3.85662, 1.8, 8]},
+			"faces": {
+				"north": {"uv": [4, 10, 0, 12], "texture": "#0"},
+				"east": {"uv": [6, 12, 5, 14], "texture": "#0"},
+				"south": {"uv": [8, 10, 4, 12], "texture": "#0"},
+				"west": {"uv": [5, 12, 4, 14], "texture": "#0"},
+				"up": {"uv": [8, 11, 12, 10], "texture": "#0"},
+				"down": {"uv": [8, 11, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.32169, 1.48925, 7.5],
+			"to": [7.32169, 3.48925, 8.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [6.32169, 2.48925, 8]},
+			"faces": {
+				"north": {"uv": [2, 12, 0, 14], "texture": "#0"},
+				"east": {"uv": [8, 12, 7, 14], "texture": "#0"},
+				"south": {"uv": [4, 12, 2, 14], "texture": "#0"},
+				"west": {"uv": [7, 12, 6, 14], "texture": "#0"},
+				"up": {"uv": [8, 13, 10, 12], "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.32169, 0.48925, 8],
+			"to": [21.32169, 5.48925, 8],
+			"rotation": {"angle": 0, "axis": "z", "origin": [13.82169, 2.98925, 8]},
+			"faces": {
+				"north": {"uv": [15, 0, 0, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 5], "texture": "#0"},
+				"south": {"uv": [15, 5, 0, 0], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 5], "texture": "#0"},
+				"up": {"uv": [0, 0, 15, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 15, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 90],
+			"translation": [0, 1.5, 7.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, -90, 0],
+			"translation": [0, 1.5, 7.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 67.5],
+			"translation": [6.5, 3.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [67.5, -90, 0],
+			"translation": [6.5, 3.75, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [-4.5, -3.25, 5.25]
+		},
+		"gui": {
+			"rotation": [0, 0, 45],
+			"translation": [-7, 1.5, 0]
+		},
+		"fixed": {
+			"rotation": [0, -180, 45],
+			"translation": [8, 1.5, 0]
+		}
+	}
+}

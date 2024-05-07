@@ -1,0 +1,170 @@
+{
+  "custom.weapon.empty": {
+    "category": "player",
+    "sounds": [
+      "empty"
+    ]
+  },
+  "custom.grenade.throw": {
+    "category": "player",
+    "sounds": [
+      "grenade/throw"
+    ]
+  },
+  "custom.g45.reload": {
+    "category": "player",
+    "sounds": [
+      "g45/reload"
+    ]
+  },
+  "custom.g45.shoot": {
+    "category": "player",
+    "sounds": [
+      "g45/shoot"
+    ]
+  },
+  "custom.desert_eagle.reload": {
+    "category": "player",
+    "sounds": [
+      "desert_eagle/reload"
+    ]
+  },
+  "custom.desert_eagle.shoot": {
+    "category": "player",
+    "sounds": [
+      "desert_eagle/shoot"
+    ]
+  },
+  "custom.double_barreled_shotgun.reload": {
+    "category": "player",
+    "sounds": [
+      "double_barreled_shotgun/reload"
+    ]
+  },
+  "custom.double_barreled_shotgun.shoot": {
+    "category": "player",
+    "sounds": [
+      "double_barreled_shotgun/shoot"
+    ]
+  },
+  "custom.g36c.reload": {
+    "category": "player",
+    "sounds": [
+      "g36c/reload"
+    ]
+  },
+  "custom.g36c.shoot": {
+    "category": "player",
+    "sounds": [
+      "g36c/shoot"
+    ]
+  },
+  "custom.hunting_rifle.reload": {
+    "category": "player",
+    "sounds": [
+      "hunting_rifle/reload"
+    ]
+  },
+  "custom.hunting_rifle.shoot": {
+    "category": "player",
+    "sounds": [
+      "hunting_rifle/shoot"
+    ]
+  },
+  "custom.m47d1.reload": {
+    "category": "player",
+    "sounds": [
+      "m47d1/reload"
+    ]
+  },
+  "custom.m47d1.shoot": {
+    "category": "player",
+    "sounds": [
+      "m47d1/shoot"
+    ]
+  },
+  "custom.m58b.reload": {
+    "category": "player",
+    "sounds": [
+      "m58b/reload"
+    ]
+  },
+  "custom.m58b.shoot": {
+    "category": "player",
+    "sounds": [
+      "m58b/shoot"
+    ]
+  },
+  "custom.m1911.reload": {
+    "category": "player",
+    "sounds": [
+      "m1911/reload"
+    ]
+  },
+  "custom.m1911.shoot": {
+    "category": "player",
+    "sounds": [
+      "m1911/shoot"
+    ]
+  },
+  "custom.mcx.reload": {
+    "category": "player",
+    "sounds": [
+      "mcx/reload"
+    ]
+  },
+  "custom.mcx.shoot": {
+    "category": "player",
+    "sounds": [
+      "mcx/shoot"
+    ]
+  },
+  "custom.mk2.reload": {
+    "category": "player",
+    "sounds": [
+      "mk2/reload"
+    ]
+  },
+  "custom.mk2.shoot": {
+    "category": "player",
+    "sounds": [
+      "mk2/shoot"
+    ]
+  },
+  "custom.mk7.reload": {
+    "category": "player",
+    "sounds": [
+      "mk7/reload"
+    ]
+  },
+  "custom.mk7.shoot": {
+    "category": "player",
+    "sounds": [
+      "mk7/shoot"
+    ]
+  },
+  "custom.mk18.reload": {
+    "category": "player",
+    "sounds": [
+      "mk18/reload"
+    ]
+  },
+  "custom.mk18.shoot": {
+    "category": "player",
+    "sounds": [
+      "mk18/shoot"
+    ]
+  },
+  "custom.mp7a1.reload": {
+    "category": "player",
+    "sounds": [
+      "mp7a1/reload"
+    ]
+  },
+  "custom.mp7a1.shoot": {
+    "category": "player",
+    "sounds": [
+      "mp7a1/shoot"
+    ]
+  }
+}
