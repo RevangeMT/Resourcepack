@@ -15,6 +15,14 @@
         {"type": "bitmap","file": "minecraft:custom_alt/badge/tag_legendary.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC003"]},
         {"type": "bitmap","file": "minecraft:custom_alt/badge/tag_money.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC004"]},
         {"type": "bitmap","file": "minecraft:custom_alt/badge/tag_bound.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC005"]},
-        {"type": "bitmap","file": "minecraft:custom_alt/badge/tag_colorable.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC006"]}
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/tag_colorable.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC006"]},
+
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_regular.png", "ascent": 8, "height": 9, "chars": ["\uE001"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_high_velocity.png", "ascent": 8, "height": 9, "chars": ["\uE002"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_split_point.png", "ascent": 8, "height": 9, "chars": ["\uE003"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_express.png", "ascent": 8, "height": 9, "chars": ["\uE004"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_explosive.png", "ascent": 8, "height": 9, "chars": ["\uE005"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_slug.png", "ascent": 8, "height": 9, "chars": ["\uE006"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/ammo_incendiary.png", "ascent": 8, "height": 9, "chars": ["\uE007"]}
     ]
 }
