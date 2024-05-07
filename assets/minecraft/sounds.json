@@ -166,5 +166,17 @@
     "sounds": [
       "mp7a1/shoot"
     ]
+  },
+  "custom.glock.reload": {
+    "category": "player",
+    "sounds": [
+      "mp7a1/reload"
+    ]
+  },
+  "custom.glock.shoot": {
+    "category": "player",
+    "sounds": [
+      "mp7a1/shoot"
+    ]
   }
 }
