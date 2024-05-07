@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_admin.png", "ascent": 8, "height": 9, "chars": ["\uB001"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_mod.png", "ascent": 8, "height": 9, "chars": ["\uB002"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_staff.png", "ascent": 8, "height": 9, "chars": ["\uB003"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_media.png", "ascent": 8, "height": 9, "chars": ["\uB004"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_vipplus.png", "ascent": 8, "height": 9, "chars": ["\uB005"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_vip.png", "ascent": 8, "height": 9, "chars": ["\uB006"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_gamemaster.png", "ascent": 8, "height": 9, "chars": ["\uB007"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/badge/rank_developer.png", "ascent": 8, "height": 9, "chars": ["\uB008"]}
+    ]
+}
