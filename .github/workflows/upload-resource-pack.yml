@@ -1,0 +1,33 @@
+name: Zip & release pack
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  upload-resource-pack:
+    if: "!contains(github.event.commits[0].message, '[ci-skip]')"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+        
+      - name: Install zip
+        run: sudo apt-get update && sudo apt-get -y install zip
+
+      - name: Zip contents of repository
+        run: |
+          zip -r Revange-v${{ github.run_number }}.zip assets/ credits.txt pack.mcmeta pack.png       
+          
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag_name: ResourcePack-v${{ github.run_number }}
+          files: Revange-v${{ github.run_number }}.zip
