@@ -1,0 +1,9 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/notify/green.png", "ascent": 7.5, "height": 8, "chars": ["s"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/notify/red.png", "ascent": 7.5, "height": 8, "chars": ["e"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/notify/blue.png", "ascent": 7.5, "height": 8, "chars": ["b"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/notify/yellow.png", "ascent": 7.5, "height": 8, "chars": ["w"]},
+        {"type": "bitmap","file": "minecraft:custom_alt/icons/notify/orange.png", "ascent": 7.5, "height": 8, "chars": ["o"]}
+    ]
+}

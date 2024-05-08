@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:custom/icons/checkmark",
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "minecraft:custom/icons/arrow_back"},
+        {"predicate": {"custom_model_data": 2}, "model": "minecraft:custom/icons/arrow_left"},
+        {"predicate": {"custom_model_data": 3}, "model": "minecraft:custom/icons/arrow_right"},
+        {"predicate": {"custom_model_data": 4}, "model": "minecraft:custom/icons/cancel"},
+        {"predicate": {"custom_model_data": 5}, "model": "minecraft:custom/icons/checkmark"}
+    ]
+}
