@@ -1,6 +1,88 @@
 {
     "providers": [
-        {"type": "bitmap","file": "minecraft:custom_alt/logo_title.png","ascent": 14.75, "height": 15,"chars": ["\uA00A"]},
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_end.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "ሉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_1.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1208"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_2.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1207"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_4.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1206"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_8.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1205"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_16.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1204"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_32.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1203"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_64.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1202"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_alt/font/background_center_128.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\u1201"
+            ]
+        },
+
+        {"type": "bitmap","file": "minecraft:custom_alt/logo_title.png","ascent": 13.25, "height": 15,"chars": ["\uA00A"]},
         {"type": "bitmap","file": "minecraft:custom_alt/logo_title.png","ascent": 20, "height": 20,"chars": ["\uA00B"]},
 
         {"type": "bitmap","file": "minecraft:custom_alt/icons/badge/1.png", "ascent": 8, "height": 9, "chars": ["\uA001"]},
